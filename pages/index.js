@@ -6,7 +6,7 @@ export default function Home() {
       <h1>Hi I am Next App</h1>
       <ul>
         <li>
-            <Link replace href="/clients">Clients</Link>
+            <Link href="/clients/max">Maxi</Link>
         </li>
     </ul>
     </>
